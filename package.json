@@ -1,0 +1,23 @@
+{
+  "name": "jsx-html-converter",
+  "version": "1.0.0",
+  "description": "converts html to valid jsx ",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungolra/jsx-html-converter.git"
+  },
+  "author": "Ralph Tungol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungolra/jsx-html-converter/issues"
+  },
+  "homepage": "https://github.com/tungolra/jsx-html-converter#readme",
+  "dependencies": {
+    "htmlparser2": "^8.0.2"
+  }
+}
