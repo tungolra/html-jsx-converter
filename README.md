@@ -1,16 +1,16 @@
-# Convert HTML to JSX
+# jsx-html-converter
 
 This npm package provides a function that can be used to convert an HTML string to valid JSX by closing any optional tags that are valid in HTML. This can be useful when working with HTML content in a React application.
 
 ### Installation
 You can install this package using npm:
 
-<code>npm install close-optional-tags</code>
+<code>npm i jsx-html-converter</code>
 
 ### Usage
 To use the closeOptionalTags function, import it into your JavaScript file:
 
-<code>const closeOptionalTags = require("close-optional-tags");</code>
+<code>const closeOptionalTags = require("jsx-html-converter");</code>
 You can then call the function with an HTML string as the argument:
 
 <code>const html = `<p>Hello, world!</p>`
