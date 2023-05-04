@@ -1,11 +1,11 @@
 {
   "name": "jsx-html-converter",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "converts html to valid jsx ",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tungolra/jsx-html-converter#readme",
   "dependencies": {
     "htmlparser2": "^8.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
   }
 }
