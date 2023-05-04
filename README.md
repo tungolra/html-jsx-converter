@@ -30,3 +30,6 @@ console.log(jsx);</code>
 
 ### License
 This package is licensed under the MIT license.
+
+### Repo
+https://github.com/tungolra/html-jsx-converter
